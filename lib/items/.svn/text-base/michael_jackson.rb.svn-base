@@ -1,0 +1,2 @@
+class MichaelJackson < Item
+end

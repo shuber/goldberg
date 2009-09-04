@@ -1,0 +1,2 @@
+class CannonBall < Item
+end

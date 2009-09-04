@@ -1,0 +1,2 @@
+class Cage < Item
+end
